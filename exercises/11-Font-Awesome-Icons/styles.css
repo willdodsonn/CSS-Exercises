@@ -1,3 +1,4 @@
-li {
-	list-style: none;
+li :nth-child(2) {
+	border-image-width: 20px;
+	font-size: 20px;
 }
