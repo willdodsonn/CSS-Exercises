@@ -1,3 +1,7 @@
-.b-blue {
-	background: blue;
+p {
+	background-color: blue;
+	color: white;
+}
+.small {
+	font-size: 9px;
 }

@@ -1,1 +1,24 @@
-/* add your styles here */
+body {
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+	background-image: url(https://3000-harlequin-stoat-v0zae9oh.ws-us23.gitpod.io/.learn/assets/background-vertical.jpg?raw=true);
+	background-repeat: repeat-y;
+}
+
+h1 {
+	font-family: "Courier New", Courier, monospace;
+	margin: auto;
+}
+h2 {
+	text-decoration: underline;
+}
+
+a:hover {
+	color: green;
+	text-decoration: none;
+}
+
+#id1 {
+	background: rgba(255, 255, 255, 0.2);
+	padding-block: 5px;
+}
